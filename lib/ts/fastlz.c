@@ -24,7 +24,7 @@
   THE SOFTWARE.
 */
 
-#if !defined(FASTLZ__COMPRESSOR) && !defined(FASTLZ_DECOMPRESSOR)
+#if !defined(FASTLZ_COMPRESSOR) && !defined(FASTLZ_DECOMPRESSOR)
 
 /*
  * Always check for bound when decompressing.
